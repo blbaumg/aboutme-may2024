@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+}
+body {
+    color:crimson;
+    font-size: 20px;
+    text-align: center;
+    
+}
+h1 {
+    color:  black;
+    
+} 
+h2 {
+    color:darkslategray;
+    padding: 50px;
+}
+p {
+    font-size: larger;
+    color: darkkhaki;
+
+}
+
+ul {
+    padding: 10px;
+}
+li {
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    padding-bottom: 8px;
+}
+span {
+    font-family: cursive;
+    font-size: larger;
+    color: brown;
+}
+
+
